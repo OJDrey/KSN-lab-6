@@ -11,4 +11,4 @@ VLAN Name                             Status    Ports
 1002 fddi-default                     active    
 1003 token-ring-default               active    
 1004 fddinet-default                  active    
-1005 trnet-default                    active    
+1005 trnet-default                    active
